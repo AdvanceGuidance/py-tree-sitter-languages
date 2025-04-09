@@ -355,4 +355,7 @@ form:
 * https://github.com/stadelmanma/tree-sitter-fixed-form-fortran - licensed under
   the MIT License.
 
+* https://github.com/yutaro-sakamoto/tree-sitter-cobol - licensed under
+  the MIT License.
+
 .. _`tree-sitter`: https://tree-sitter.github.io/
